@@ -1,0 +1,9 @@
+HUMAN ++++ hi
+BOT ++++ .
+HUMAN ++++ hi
+BOT ++++ .
+HUMAN ++++ hello
+BOT ++++ .
+HUMAN ++++ hello
+BOT ++++ .
+=============================================
